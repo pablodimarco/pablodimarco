@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently learning Front-end development<br>🌱 My tech stack is HTML, CSS AND JS<br>🏋️ I like training with friends<br>📭 My contact mail is pablodimarco7@gmail.com<br>🔎 I'm looking for a job as a Front-end developer<br>
+👨‍💻 Currently learning Front-end development, and DATA SCIENTIST<br>🌱 My tech stack is HTML, CSS, JS, PYTHON, DJANGO, ETC.<br>🏋️ I like training with friends<br>📭 My contact mail is pablodimarco7@gmail.com<br>🔎 I'm looking for a job as a Front-end developer<br>
  
 
 ## 🌐 Socials:
